@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "50887612065",
+    "firebase_url": "https://techhome-e0574.firebaseio.com",
+    "project_id": "techhome-e0574",
+    "storage_bucket": "techhome-e0574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50887612065:android:46fc3ad199608273",
+        "android_client_info": {
+          "package_name": "com.techhome.techhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50887612065-dfm2o5e788t827ob414qtaaso9iuiunu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techhome.techhome",
+            "certificate_hash": "75d99e48fa65b7ef4cb15b437c77763b69cc6283"
+          }
+        },
+        {
+          "client_id": "50887612065-vh1u532gapn4j6t2r3n5rmu5i074k4go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBNy_j2KFJR7MG6utjEFi_Vz0YF-AKFRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50887612065-vh1u532gapn4j6t2r3n5rmu5i074k4go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
